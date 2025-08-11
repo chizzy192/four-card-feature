@@ -94,7 +94,6 @@ main {
     padding: 2rem;
     border-radius: 0.5rem;
     width: 20rem;
-    height: 16rem;
     border: 1px solid var(--white);
 }
 
@@ -146,15 +145,7 @@ main {
     }
 } 
 
-
-
-
-
 @media  screen and (min-width: 64rem) {
-    #header {
-        line-height: 2.5rem;
-    }
-
     #heading p {
         color: var(--grey-400);
     }
@@ -166,18 +157,12 @@ main {
 
     .card {
         width: 22rem;
-        height: 15rem;
-    }
-
-    .card p {
-        padding: 0.5rem 0.5rem 1rem 0;
     }
     
 }
 
 @media  screen and (min-width: 1000px) {
     .card {
-        width: 21rem;
-        
+        width: 21rem;    
     }
 } 
