@@ -36,9 +36,9 @@
 
 body {
     font-family: 'Poppins-Regular', sans-serif;
-    background-color: var(white);
+    background-color: #FAFAFA;
     color: var(--grey-500);
-    width: 100vw;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
